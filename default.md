@@ -17,4 +17,20 @@ But ask yourself:
 
 You can be a participant in a decentralized ecosystem while still depending on infrastructure and identity-management mechanisms controlled by other parties.
 
-This is where **DID-Web** (rather than DID-PLC) enters the picture.
+* Own your identity.
+* Control your identity.
+* Take your identity with you.
+
+## DID-Web
+
+This is where **DID-Web** (`did:web`) enters the picture.
+
+On the ATProto ATmosphere, people are identified by a DID (decentralized identifier).
+Think of it as being similar to a telephone number.
+
+Here are some examples of DIDs:
+
+| DID Type | Example                            |
+|----------|------------------------------------|
+| DID-PLC  | `did:plc:scewmn2pl3oz36mxme2b6czz` |
+| DID-Web  | `did:web:example.com`              |
