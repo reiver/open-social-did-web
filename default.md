@@ -1,7 +1,7 @@
 # Open Social DID-Web: Your Identity, Your Infrastructure, Your Rules
 
 You might use Bluesky.
-You might use Blacksky.
+You might use [Blacksky](https://blacksky.community).
 You might run your own PDS.
 You might even control your own data.
 
