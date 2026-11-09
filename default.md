@@ -1,4 +1,4 @@
-# Open Social DID-Web: Your Identity, Your Infrastructure Your Rules
+# Open Social DID-Web: Your Identity, Your Infrastructure, Your Rules
 
 You might use Bluesky.
 You might use Blacksky.
