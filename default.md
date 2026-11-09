@@ -2,7 +2,7 @@
 
 You might use Bluesky.
 You might use [Blacksky](https://blacksky.community).
-You might run your own PDS.
+You might run your own [PDS](https://github.com/blacksky-algorithms/rsky/tree/main/rsky-pds).
 You might even control your own data.
 
 But ask yourself:
